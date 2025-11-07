@@ -1,0 +1,6 @@
+[debug] > Exec(sbt:spark-pollution>, None, None)
+[error] Expected key
+[error] Not a valid key: spark-pollution (similar: parallelExecution)
+[error] sbt:spark-pollution>
+[error]                    ^
+[debug] > Exec(idea-shell, None, None)
